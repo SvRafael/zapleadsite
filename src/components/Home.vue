@@ -25,7 +25,7 @@
                 autoplay
                 muted
             >
-    <source src="../assets/AULA-2-instalando-o-ZapLead.mp4" type="video/mp4"/>
+    <source src="../../public/AULA-2-Instalando-o-ZapLead.mp4" type="video/mp4"/>
     Seu navegador não suporta vídeos .mov. Por favor, baixe o vídeo.
         </video>
         </div>
