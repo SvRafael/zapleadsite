@@ -1,11 +1,11 @@
 <template>
-  <section class="bg-gradient-to-b from-green-900 via-green-200 via-green-600 via-green-600 via-green-700 to-green-900 text-white w-full">
+  <section class="bg-white w-full">
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between md:h-[calc(100vh-64px)] h-auto">
 
       <!-- Texto à esquerda -->
       <div class="md:w-1/2 w-full p-6 md:p-12">
         <h1 class="text-4xl font-bold bg-gradient-to-r from-green-400 to-green-200 bg-clip-text text-transparent">
-        CRM NO WHATSAPP
+          CRM NO WHATSAPP
         </h1>
         <h1 class="text-4xl font-bold mb-4">Transforme conversas em conversoes!</h1>
         <p class="text-lg mb-6">
