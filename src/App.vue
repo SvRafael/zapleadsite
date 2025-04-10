@@ -3,6 +3,7 @@ import Caroulsel from './components/Caroulsel.vue';
 import Functions from './components/Functions.vue';
 import Header from './components/Header.vue';
 import Home from './components/Home.vue';
+import Prices from './components/Prices.vue';
 import Section1 from './components/Section1.vue';
 </script>
 
@@ -13,6 +14,7 @@ import Section1 from './components/Section1.vue';
     <Section1></Section1>
     <Functions></Functions>
     <Caroulsel></Caroulsel>
+    <Prices></Prices>
   </main>
  
 </template>
