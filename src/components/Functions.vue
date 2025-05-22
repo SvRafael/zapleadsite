@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-green-500 text-white w-full">
+    <section id="functions" class="bg-green-500 text-white w-full">
       <div class="max-w-7xl mx-auto flex flex-col items-center justify-between h-auto space-x-2 py-12 space-y-10">
         <div class="flex flex-col items-start w-full px-1">
           <h1 class="font-bold text-2xl text-white">Nossas Funcionalidades</h1>

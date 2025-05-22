@@ -1,5 +1,5 @@
 <template>
-    <section class="w-full bg-black">
+    <section id="duvidas" class="w-full bg-black">
         <div class="">
             <div class="min-h-screen flex flex-col justify-between py-24 items-center">
                 <h1 class="text-5xl">

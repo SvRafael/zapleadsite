@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-gradient-to-b from-white via-green-200  via-green-500 via-green-500 to-green-500 text-white w-full">
+    <section id="section1" class="bg-gradient-to-b from-white via-green-200  via-green-500 via-green-500 to-green-500 text-white w-full">
       <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between md:h-[calc(100vh-64px)] h-auto space-x-2">
         <div class="md:w-1/2 w-full">
             <img

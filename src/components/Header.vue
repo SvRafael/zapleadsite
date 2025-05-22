@@ -13,22 +13,22 @@
         <!-- Menu -->
         <ul class="flex space-x-6 text-gray-600 font-medium">
           <li>
-            <a href="#" class="text-white hover:text-green-300 transition">INICIO</a>
+            <a href="#home" class="text-white hover:text-green-300 transition">INICIO</a>
           </li>
           <li>
-            <a href="#" class="text-white hover:text-green-300 transition">CURSO</a>
+            <a href="#home" class="text-white hover:text-green-300 transition">CURSO</a>
           </li>
           <li>
-            <a href="#" class="text-white hover:text-green-300 transition">SERVIÇOS</a>
+            <a href="#section1" class="text-white hover:text-green-300 transition">FUNCIONALIDADES</a>
           </li>
           <li>
-            <a href="#" class="text-white hover:text-green-300 transition">PREÇOS</a>
+            <a href="#prices" class="text-white hover:text-green-300 transition">PREÇOS</a>
           </li>
           <li>
-            <a href="#" class="text-white hover:text-green-300 transition">SOBRE</a>
+            <a href="#duvidas" class="text-white hover:text-green-300 transition">DUVIDAS</a>
           </li>
           <li>
-            <a href="#" class="text-white hover:text-green-300 transition">CONTATO</a>
+            <a href="#footer" class="text-white hover:text-green-300 transition">CONTATO</a>
           </li>
         </ul>
       </div>

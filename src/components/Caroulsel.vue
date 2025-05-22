@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between h-auto space-x-2 py-12">
+    <section id="caroulsel" class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between h-auto space-x-2 py-12">
     <div class="relative w-full h-full mx-auto overflow-hidden rounded-xl shadow-lg">
       
       <!-- Slides -->
@@ -41,7 +41,7 @@
         />
       </div>
     </div>
-    </div>
+    </section>
   </template>
   
   <script setup>

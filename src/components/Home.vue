@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-white w-full">
+  <section id="home" class="bg-white w-full">
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between md:h-[calc(100vh-64px)] h-auto">
 
       <!-- Texto à esquerda -->

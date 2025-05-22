@@ -1,6 +1,6 @@
 <template>
     <footer class="bg-green-500 text-gray-300 px-6 py-10">
-  <div class="max-w-7xl mx-auto flex flex-row justify-between  justify-between8">
+  <section id="footer" class="max-w-7xl mx-auto flex flex-row justify-between  justify-between8">
 
     <!-- Coluna 1: Institucional -->
     <div class="space-y-3">
@@ -31,7 +31,7 @@
     <!-- Coluna 3: Sobre o site -->
 
 
-  </div>
+  </section>
 
   <!-- Linha divisória -->
   <div class="border-t border-gray-700 mt-10 pt-6 text-center text-sm text-black">
